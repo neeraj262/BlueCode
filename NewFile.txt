@@ -1,0 +1,7 @@
+Hello 
+
+1. git checkout <commit hash code/branch name>   // for going to particular commit file
+   git checkout master  //for going to default place
+2. git branch // head will be pointing to other file
+3. git checkout master
+4. git log // will show all changes
